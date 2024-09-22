@@ -3,8 +3,8 @@ title: Webflux 진짜로 대용량 처리에서 MVC 보다 빠를까?
 description: 직접 Webflux 와 MVC 성능 비교 테스트를 하고 결과를 알려드리죠!
 author: JJunpro
 date: 2024-09-22 00:00:00 +0800
-categories: [Java]
-tags: [Java,Webflux,Non-blocking]
+categories: [SpringBoot]
+tags: [Spring Boot,Java,Webflux,Non-blocking]
 pin: true
 math: true
 mermaid: true
