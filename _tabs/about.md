@@ -4,5 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 쭌프로의 정보
+
+**DKTechin a kakao company - 2022.09 ~ 재직중**  
+플랫폼 서비스 유지보수 및 개발과 개인정보보안담당자
+
+**네오다임 - 2020.05 ~ 2022.09 (2년 5개월)**  
+웹 프론트 엔드, 웹 백엔드, AWS 서버 관리, 도메인 관리
+
+**어글리스미스 - 2019.05 ~ 2020.01 (9개월)**  
+스타트업 초기 웹 프론트엔드, 웹 백엔드(부분 담당), 산업부 공공데이터 활용 공모전 대상에 국외출장 앱 '프로출장러' 부분담당
+
+**스윗소프트 - 2017.08 ~ 2018.12 (1년 5개월)**  
+스타트업 초기 웹 프론트엔드, 웹 백엔드(부분 담당), 글로벌 쇼핑몰 웹 담당
