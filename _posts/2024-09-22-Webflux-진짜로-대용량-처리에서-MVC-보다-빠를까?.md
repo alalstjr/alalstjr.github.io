@@ -4,13 +4,12 @@ description: 직접 Webflux 와 MVC 성능 비교 테스트를 하고 결과를 
 author: JJunpro
 date: 2024-09-22 00:00:00 +0800
 categories: [SpringBoot]
-tags: [Spring Boot,Java,Webflux,Non-blocking]
+tags: [Spring Boot,Java,Webflux,Non-blocking,Kafka]
 pin: true
 math: true
 mermaid: true
 image:
   path: /assets/img/2024-09-22-7.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: 모든 프로젝트에 Webflux 를 도입해볼까!? (그건 쫌 아닌듯;;)
 ---
 
