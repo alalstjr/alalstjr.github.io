@@ -1,5 +1,5 @@
 ---
-title: 벡엔드 개발자의 토스 SLASH24 (No Limit) 컨퍼런스 행사 후기
+title: 백엔드 개발자의 토스 SLASH24 (No Limit) 컨퍼런스 행사 후기
 description: 토스의 현직 개발자들의 고민과 성과를 보고 느낀점을 공유할게요.
 author: JJunpro
 date: 2024-10-05 00:00:00 +0800
