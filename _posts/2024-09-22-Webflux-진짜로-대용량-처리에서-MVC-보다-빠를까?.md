@@ -3,8 +3,8 @@ title: Webflux 진짜로 대용량 처리에서 MVC 보다 빠를까?
 description: 직접 Webflux 와 MVC 성능 비교 테스트를 하고 결과를 알려드리죠!
 author: JJunpro
 date: 2024-09-22 00:00:00 +0800
-categories: [SpringBoot]
-tags: [Spring Boot,Java,Webflux,Non-blocking,Kafka]
+categories: [ SpringBoot ]
+tags: [ Spring Boot,Java,Webflux,Non-blocking,Kafka ]
 pin: true
 math: true
 mermaid: true
@@ -18,7 +18,7 @@ image:
 동시 접속 사용자 대용량 처리에 관심이 많아서 찾아보다가 Webflux 까지 오게되었습니다.
 일반 MVC 와 Webflux 성능 차이를 정리한 블로그글, 유튜브 영상까지 모두 찾아보았고 둘의 엄청난 차이에 Webflux 매력에 빠져서 정말 많은것을 찾아보았습니다. 하지만 직접 테스트 해보고 경험해 봐야 알 수 있는것 직접 테스트 해보기로 합니다.
 
-추가로 회사 프로젝트로 하루 평균 30 ~ 50 만건의 카카오 챗봇 로그를 적재하는 API 개발을 담당하게 되었습니다.
+추가로 회사 프로젝트로 하루 평균 30 ~ 50 만건의 카카오 챗봇 로그를 적재하는 API 개발을 담당하게 되었습니다. (프로젝트 이름은 WaveLens)
 제가 가지고있는 개념으로 개발을 하자니 Webflux 로 API 를 개발하고 Kafka 로 메세지를 받고 MongoDB(지금은 엘라스틱 서치) 로 저장하는 방향으로 개발하였습니다.
 
 > 논문집을 참고해서 테스트 하였습니다.
