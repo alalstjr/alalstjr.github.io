@@ -368,3 +368,25 @@ header {
     margin-right: -0.5rem;
   }
 }
+
+// Target <p> only if it contains .normal elements
+p:has(.normal) {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 10px;
+
+  // Style only images with the .normal class
+  .normal img {
+    width: 100%;
+    max-width: 410px;
+    height: auto;
+  }
+}
+
+// Media query to allow wrapping on very narrow screens
+//@media (max-width: 820px) {
+//  p:has(.normal) {
+//    flex-wrap: wrap;
+//  }
+//}
