@@ -14,12 +14,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: JJunpro 개발자 쭌프로 # the main title
+title: 개발자 진중남 # the main title
 
-tagline: JJunpro 쭌프로의 개발 블로그 # it will display as the subtitle
+tagline: 진중남의 개발 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  JJunpro 쭌프로의 실무 경험을 바탕으로 작성된 개발 블로그입니다.
+  진중남의 실무 경험을 바탕으로 작성된 개발 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
