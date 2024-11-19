@@ -94,3 +94,5 @@ Kafka-exporter를 활용해 이를 분석하고, Kafka 브로커나 파티션 �
 프로젝트는 항상 모니터링되어야 하며, 문제 발생에 대비할 수 있도록 모니터링은 필수라고 생각합니다.
 
 [kafka-exporter + prometheus + grafana git 저장소 바로가기](https://github.com/alalstjr/kafka-exporter-note)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Falalstjr.github.io%2Fposts%2Fkafka-exporter-%25EB%2588%2588%25EC%259C%25BC%25EB%25A1%259C-%25EB%25AA%25A8%25EB%258B%2588%25ED%2584%25B0%25EB%25A7%2581%25ED%2595%25B4-%25EB%25B3%25B4%25EC%259E%2590%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
