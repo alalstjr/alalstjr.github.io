@@ -204,3 +204,5 @@ if(kakaoAI) 는 `Day1 ~ Day3` 까지 준비되어 있었으며 저는 백엔드 
 이러한 경험이 또 다른 좋은 기회가 되었고, 오늘 있었던 컨퍼런스를 되새기는 계기가 되었습니다. 
 매번 컨퍼런스에 참석할 때마다 개발자로서의 시선이 더욱 넓어지고, 현재 하고 있는 개발에서 어떻게 더 발전할 수 있을지를 고민하게 되는 제 자신을 발견하는 것이 좋았습니다.
 이 글을 읽고 있는 개발자, 취업 준비생, 직장인 여러분께, 꼭 컨퍼런스에 참석하여 세상을 보는 눈을 넓혀보시길 권장합니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Falalstjr.github.io%2Fposts%2F%25EB%25B0%25B1%25EC%2597%2594%25EB%2593%259C-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EC%259D%2598-if%28kakao-ai%29-%25EC%25BB%25A8%25ED%258D%25BC%25EB%259F%25B0%25EC%258A%25A4-%25ED%2596%2589%25EC%2582%25AC-%25ED%259B%2584%25EA%25B8%25B0%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
