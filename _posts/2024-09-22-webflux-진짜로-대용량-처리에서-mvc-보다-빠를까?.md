@@ -153,3 +153,5 @@ Webflux는 데이터 전송 속도 측면에서 수신이 매우 높으므로, �
 이 글은 약 1년 전에 제가 WebFlux에 대해 조사하고 테스트한 내용을 공유한 것입니다.   
 댓글에는 WebFlux와 MVC 성능에 대한 개발자들의 토론이 많으니 한 번 읽어보시길 추천합니다.  
 또한, 1년 후 실무에 적용한 사례를 추가해 게시글을 수정했으니, 원문과 함께 읽어보시면 많은 도움이 될 것입니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Falalstjr.github.io%2Fposts%2Fwebflux-%25EC%25A7%2584%25EC%25A7%259C%25EB%25A1%259C-%25EB%258C%2580%25EC%259A%25A9%25EB%259F%2589-%25EC%25B2%2598%25EB%25A6%25AC%25EC%2597%2590%25EC%2584%259C-mvc-%25EB%25B3%25B4%25EB%258B%25A4-%25EB%25B9%25A0%25EB%25A5%25BC%25EA%25B9%258C%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
