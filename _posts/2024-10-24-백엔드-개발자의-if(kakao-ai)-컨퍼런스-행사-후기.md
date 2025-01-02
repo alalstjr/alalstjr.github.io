@@ -1,7 +1,7 @@
 ---
 title: 백엔드 개발자의 if(kakaoAI) 컨퍼런스 행사 후기
 description: AI 시대를 바라보는 카카오만의 새로운 관점을 바라보고 다양한 기술 경험을 함께 나누는 소통의 장
-author: JJunpro
+author: 갓만석
 date: 2024-10-24 00:00:00 +0800
 categories: [ 컨퍼런스 ]
 tags: [ Spring Boot,Java,카카오,kakao,개발자,컨퍼런스,AI,kafka ]

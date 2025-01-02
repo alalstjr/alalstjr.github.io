@@ -1,7 +1,7 @@
 ---
 title: kafka-exporter 눈으로 모니터링해 보자
 description: kafka-exporter 실무에 적용하는 과정을 그대로 공유합니다.
-author: JJunpro
+author: 갓만석
 date: 2024-08-28 00:00:00 +0800
 categories: [ 지식공유 ]
 tags: [ kafka,kafka-exporter,helm,모니터링,prometheus,grafana ]
