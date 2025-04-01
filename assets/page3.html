@@ -1,14 +1,55 @@
----
-layout: page
-title: "page3"
-permalink: /page3.html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>만우절 홈페이지</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            transition: background-color 0.2s;
+            overflow: hidden;
+            animation: rainbow 1s infinite;
+        }
 
-redirect_from:
-- /norobots/
-- /assets/
-- /posts/
----
+        @keyframes rainbow {
+            0% { background-color: red; }
+            14% { background-color: orange; }
+            28% { background-color: yellow; }
+            42% { background-color: green; }
+            57% { background-color: blue; }
+            71% { background-color: indigo; }
+            85% { background-color: violet; }
+            100% { background-color: red; }
+        }
 
-{% include lang.html %}
+        h1 {
+            font-size: 5rem;
+            text-align: center;
+            color: white;
+            animation: pulse 1s infinite alternate ease-in-out;
+            cursor: pointer;
+        }
 
-<p class="lead">page3 page</p>
+        @keyframes pulse {
+            0% { transform: scale(0.5); }
+            100% { transform: scale(2); }
+        }
+    </style>
+</head>
+<body>
+    <h1 id="text">만우절!</h1>
+
+    <script>
+        document.getElementById("text").addEventListener("click", function() {
+            this.textContent = "4월 1일!";
+        });
+    </script>
+</body>
+</html>
